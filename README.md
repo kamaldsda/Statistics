@@ -1,3 +1,7 @@
 # Statistics
 
-I am from Hyderabad
+Statitics 
+
+measure of central tendency 
+
+
